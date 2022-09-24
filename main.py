@@ -64,7 +64,7 @@ def main():
     for zip_code in sorted(output_zip_codes):
       f.write(f'{zip_code}\n')
 
-  print('done')
+  print('Done!')
 
 
 if __name__ == '__main__':
